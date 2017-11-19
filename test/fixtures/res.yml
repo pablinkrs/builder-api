@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  archivosGenerados: 
+  asignatura_id: 
+  docente_id: 
+  estructura: 
+  institucion_id: 
+  nivel_id: 
+  nombreRe: 
+  plantilla_id: 
+  rutaReAssets: 
+
+two:
+  archivosGenerados: 
+  asignatura_id: 
+  docente_id: 
+  estructura: 
+  institucion_id: 
+  nivel_id: 
+  nombreRe: 
+  plantilla_id: 
+  rutaReAssets: 

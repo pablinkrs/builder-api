@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombrePlantilla: MyString
+  ruta: MyString
+  rutaBody: MyString
+  rutaFooter: MyString
+  rutaHeader: MyString
+  rutaImagenAudio: MyString
+  rutaImg: MyString
+
+two:
+  nombrePlantilla: MyString
+  ruta: MyString
+  rutaBody: MyString
+  rutaFooter: MyString
+  rutaHeader: MyString
+  rutaImagenAudio: MyString
+  rutaImg: MyString

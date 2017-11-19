@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mes: MyString
+  cantidad: 1
+
+two:
+  mes: MyString
+  cantidad: 1
